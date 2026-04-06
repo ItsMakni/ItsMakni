@@ -67,14 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMakni&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-## 🏗️ Data Engineering Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔄 **[Github Watchtower Pipeline](https://github.com/ItsMakni/GITHUB-WATCHTOWER-INTELLIGENCE-HUB)** | Real-time event processing with sub-second latency | Kafka, Spark, BigQuery |
-| 🏠 **[Bank Transaction Fraud Detection ML Models](#)** | Bank Transaction Fraud Detection ML Models | Logistic Regression, Decision Tree, Random Forest |
 
 ---
 
@@ -92,9 +84,6 @@
 ---
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsMakni&color=58A6FF&style=flat-square&label=Profile+Views"/>
